@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[codepath](https://user-images.githubusercontent.com/32690007/208995840-32e5ebda-862e-465d-84dc-51da2832f7d1.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![codepath](https://user-images.githubusercontent.com/32690007/208995905-95c29e88-12c8-42f2-973c-403616cf2e91.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
